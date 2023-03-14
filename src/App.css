@@ -24,6 +24,42 @@
   color: white;
 }
 
+@media only screen and (max-width: 525px) {
+
+  .adviceBox{
+    max-width: 350px !important
+  }
+
+  .adviceText{
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 25px;
+  }
+
+  .adviceNumber{
+    font-size: 10px;
+  }
+
+  .dividerMobile{
+    max-width: 300px;
+  }
+
+  .dividerDesktop{
+    display: none;
+  }
+
+}
+
+@media only screen and (min-width: 526px) {
+
+  .dividerMobile{
+    display: none;
+  }
+
+}
+
+
+
 .App-link {
   color: #61dafb;
 }

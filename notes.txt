@@ -1,0 +1,17 @@
+
+Advice Generator in React
+With the assets given to you remake the following Project - Advice Generator  
+
+Built in React 
+Must have a component folder ( App cannot be built in the app.js or in the index.js)
+Mobile and Desktop versions must be built out 
+Must use all assets given 
+Use https://api.adviceslip.com/ for your API call
+You can use bootstrap or tailwind
+Host on Azure and link in comments 
+Upload to github and link to repo in comments do not host on GitHub Pages
+Make sure to peer review and put this in the App.js 
+Goal is to recreate this challenge as close to the design as possible and having it function properly 
+
+
+Things to do:

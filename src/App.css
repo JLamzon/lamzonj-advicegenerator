@@ -27,7 +27,7 @@
 @media only screen and (max-width: 525px) {
 
   .adviceBox{
-    max-width: 350px !important
+    min-width: 350px !important
   }
 
   .adviceText{
@@ -71,4 +71,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.dividerPosition
+{
+  position: absolute;
+  bottom: 60px;
 }

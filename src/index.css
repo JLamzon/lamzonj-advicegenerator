@@ -90,6 +90,7 @@ code {
 {
   margin: 0;
   height: 20px;
+  letter-spacing: 4px;
 }
 
 .adviceNumber {
@@ -108,6 +109,13 @@ img{
   width: 400px;
 }
 
+
 .dividerDesktop{
-  width: 465px;
+  width: 400px;
 }
+
+.dividerPosition
+{
+  bottom: 60px;
+}
+
